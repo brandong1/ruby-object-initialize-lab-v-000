@@ -12,4 +12,3 @@ class Dog
    end
 end
 
-Dog.name = name
