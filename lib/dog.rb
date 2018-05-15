@@ -12,3 +12,5 @@ class Dog
     @name
   end
 end
+
+Dog.name = dog_name
